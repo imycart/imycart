@@ -16,3 +16,4 @@ sudo pip3 install Pillow==2.9.0
 
 # pip install pycrypto
 # pip install wechat 
+# 海螺海购分支
